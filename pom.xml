@@ -781,7 +781,7 @@
         <commons-cli.version>1.2.0</commons-cli.version>
         <commons-configuration.version>1.10</commons-configuration.version>
         <commons-digester.version>1.8.1</commons-digester.version>
-        <commons-beanutils.version>1.9.4</commons-beanutils.version>
+        <commons-beanutils.version>1.11.0</commons-beanutils.version>
         <geronimo-jms_1.1_spec.version>1.1.0</geronimo-jms_1.1_spec.version>
         <stratos.common.version>2.2.0</stratos.common.version>
         <netty-all.version>4.0.23.wso2v1</netty-all.version>
